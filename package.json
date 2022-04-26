@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Prectica 3 de la semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMorales26/Twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMorales26/Twitter/issues"
+  },
+  "homepage": "https://github.com/JuanMorales26/Twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
